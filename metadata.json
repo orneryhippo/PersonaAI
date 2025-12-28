@@ -1,0 +1,7 @@
+{
+  "name": "PersonaAI - Professional Headshot Studio",
+  "description": "Transform your casual selfies into stunning professional headshots using the power of Gemini 2.5 Flash Image. Choose from various styles and refine your photos with natural language commands.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
